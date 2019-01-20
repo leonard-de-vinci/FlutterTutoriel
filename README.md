@@ -1,16 +1,16 @@
-# tutorial
+# Flutter tutorial
 
-A new Flutter project.
+Vous pouvez trouver ici le tutoriel flutter pour créer une liste de personnes 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Ce projet utilise le framework flutter.
+Quelques ressources qui vous serviront :
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- [A language tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+Pour obtenir de l'aide au sujet de flutter :
+[online documentation](https://flutter.io/docs)
